@@ -33,9 +33,9 @@ module.exports.datastores = {
      ***************************************************************************/
 
     default: {
-        user: 'gqvyqsjufmdesi',
-        password: '6afc7ac4b1601223c40ae1866aba67c48c3bc275ba41090a9416cde33abd13cd',
-        database: 'dfu3tq45qr84o5',
+        user: 'kozhuhctackfql',
+        password: '77cca36468d6abca8d257a799d1eb343fffb0196d672f1ba765ff94c2af364eb',
+        database: 'db06beraj2plep',
         dialect: 'postgres',
         dialectOptions: {
             ssl: true
@@ -43,7 +43,7 @@ module.exports.datastores = {
         ssl: true,
         options: {
             dialect: 'postgres',
-            host: 'ec2-23-21-160-38.compute-1.amazonaws.com',
+            host: 'ec2-54-243-193-59.compute-1.amazonaws.com',
             port: 5432,
             logging: true,
             ssl: true,
