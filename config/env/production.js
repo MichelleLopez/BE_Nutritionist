@@ -48,10 +48,10 @@ module.exports = {
          ***************************************************************************/
         default: {
             adapter: 'sails-postgresql',
-            database: 'nutritionist',
-            host: 'localhost',
-            user: 'postgres',
-            password: '',
+            database: 'dfu3tq45qr84o5',
+            host: 'ec2-23-21-160-38.compute-1.amazonaws.com',
+            user: 'gqvyqsjufmdesi',
+            password: '6afc7ac4b1601223c40ae1866aba67c48c3bc275ba41090a9416cde33abd13cd',
             port: 5432,
             pool: false,
             ssl: false
